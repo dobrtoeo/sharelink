@@ -1,0 +1,1 @@
+vless://efad0750-786a-4ea8-9f81-89c9d38b675d@pl1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=pl1.v2vless.xyz&sni=ijnfduds&type=ws#sshocean-uy7e545

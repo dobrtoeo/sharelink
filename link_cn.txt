@@ -1,0 +1,1 @@
+vless://06b87347-30af-4843-b6f2-8771e66ed134@uk2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=uk2.v2vless.xyz&sni=uuijhgf&type=ws#sshocean-ty67ntr
